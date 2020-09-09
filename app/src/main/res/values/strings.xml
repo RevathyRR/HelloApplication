@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Grocery Application</string>
+    <string name="lbl_new_note_title">New Grocery</string>
+    <string name="lbl_edit_note_title">Edit Grocery</string>
 </resources>
